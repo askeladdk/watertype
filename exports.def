@@ -1,0 +1,4 @@
+LIBRARY	"watertype"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
